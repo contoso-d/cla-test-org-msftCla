@@ -14,15 +14,4 @@ Test cla-assistant
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Test Reduce pull request
