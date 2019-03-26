@@ -4,20 +4,4 @@ Test cla-assistant
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Small to Big
+Big to Small
